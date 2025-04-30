@@ -3,7 +3,7 @@ PCOS Treatment Simulation Project
 
 A Streamlit-based simulation modeling treatment effects on PCOS patients.
 
-Featured in University Demo Day: [View Article](https://www.uwindsor.ca/dailynews/2025-04-25/)
+Featured in University Demo Day: [View Article]([https://www.uwindsor.ca/dailynews/2025-04-25/](https://www.uwindsor.ca/dailynews/2025-04-25/crime-prediction-women%E2%80%99s-health-students-demo-real-world-tech-solutions))
 
 
 1. PREREQUISITES
