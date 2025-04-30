@@ -3,6 +3,9 @@ PCOS Treatment Simulation Project
 
 A Streamlit-based simulation modeling treatment effects on PCOS patients.
 
+Featured in University Demo Day: [View Article](https://www.uwindsor.ca/dailynews/2025-04-25/)
+
+
 1. PREREQUISITES
 ----------------
 - Python 3.8 or later
